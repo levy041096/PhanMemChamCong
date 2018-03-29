@@ -1,0 +1,13 @@
+D:\PhanMemChamCong\PhanMemChamCong\PhanMemChamCong\bin\Debug\PhanMemChamCong.exe.config
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\bin\Debug\PhanMemChamCong.exe.config
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.csprojResolveAssemblyReference.cache
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.FrmDangKy.resources
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.FrmDangNhap.resources
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.FrmDashboard.resources
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.FrmMain.resources
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.Properties.Resources.resources
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.csproj.GenerateResource.Cache
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\bin\Debug\PhanMemChamCong.exe
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\bin\Debug\PhanMemChamCong.pdb
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.exe
+C:\Users\vyltt\Desktop\ChamCong1\PhanMemChamCong\Source_PhanMemChamCong\PhanMemChamCong\obj\Debug\PhanMemChamCong.pdb
